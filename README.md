@@ -2,5 +2,5 @@
 Object schema description language and validator for JavaScript objects.
 
 
-JOI FOR BROSER. 
+JOI FOR BROWSER. 
 Cloned from original hapijs/joi. Some functions were stubbed and some dependencies dropped to allow it to run in the browser
