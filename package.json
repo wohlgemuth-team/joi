@@ -14,8 +14,8 @@
     "node": ">=8.9.0"
   },
   "dependencies": {
-    "hoek": "5.x.x",
     "isemail": "3.x.x",
+    "project-utils": "https://github.com/wohlgemuth-team/project-utils.git",
     "topo": "3.x.x"
   },
   "devDependencies": {
